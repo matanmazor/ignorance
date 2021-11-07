@@ -1,0 +1,10 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+\includegraphics[width=1\linewidth]{figures/num_clicks} \caption{Number of clicks in pretend (purple) and non-pretend (green) games as a function of block order (pretend or non-pretend first).}\label{fig:num-clicks}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+\includegraphics[width=1\linewidth]{figures/total_time} \caption{Total game duration in pretend (purple) and non-pretend (green) games as a function of block order (pretend or non-pretend first).}\label{fig:total-time}
+\end{figure*}
